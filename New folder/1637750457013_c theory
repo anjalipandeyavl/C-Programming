@@ -1,0 +1,11 @@
+C = is a general purpose ,imperative,case sensitive,procedure3 oriented,highly syntax based and striety typed programming language.
+
+PROCEDURE ORIENTED = it is a way of erite a list of instrustion for the computer to follow and these instruction are arrange in a group and these group is know as function.
+
+#= preprocessor operator/symbol.
+include= file include direction.
+#include= preprocessor director.
+<>= search header on its standard part.
+""=search header file in current folder then on standard part.
+ preprocessor = preprocessor simply give instuction  to the compiler to preprocessor yhe information, before actual  compilation start. 
+VOID =9

@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include"addHearder.h"
+void main()
+{
+printf("sum : %d\n",addition();
+}
