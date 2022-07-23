@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int num, rem, sum = 0, temp, temp1, count = 0;
-    cout << "enter number to c heck : ";
+    cout << "ent er number to c heck : ";
     cin >> num;
     temp = num;
     temp1 = num;
