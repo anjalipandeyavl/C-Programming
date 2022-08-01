@@ -10,7 +10,7 @@ int main()
             if ((c >= 6 - r && c < 12 + r) || (c >= 24 - r && c <= 30 + r))
                 printf("*");
             else
-                printf("  ");
+                printf("   ");
         }
         printf("\n");
     }
